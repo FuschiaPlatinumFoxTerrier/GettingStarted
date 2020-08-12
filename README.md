@@ -1,4 +1,4 @@
-# GettingStarted
+# Welcome to the FreeRTOS Github Organization
 
 This organization contains all things FreeRTOS. By doing searches in the org you can find relevant content e.g.
 
